@@ -1,8 +1,8 @@
-## Chapter: Hello world
+##Chapter: Hello world
 Introducing the hello world chapter
 
 
-** Try this **
+**Try this**
 
 ```javascript
 class Example {
