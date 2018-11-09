@@ -9,3 +9,7 @@ run:
 # Verify the application
 verify:
 	@ echo "The application has been successfully verified"
+
+# Introduce the hello-world chapter
+start:
+	@ cat docs/intro.md
